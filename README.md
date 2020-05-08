@@ -12,7 +12,7 @@ If you have bene using my plugins, I will continue to support the ones that aren
 
 ## [Shiny](https://www.github.com/shinyorg/shiny): That complex stuff made easy
 
-Shiny is an amazing project from [Allan Ritchie](https://github.com/aritchie), Microsoft MPV and long time Xamarin developer, that makes really complex native functionality easy. This includes things such at Bluetooth LE, Background Jobs, HTTP Transers, Push Notifications, NFC, and more. 
+Shiny is an amazing project from [Allan Ritchie](https://github.com/aritchie), Microsoft MVP and long time Xamarin developer, that makes really complex native functionality easy. This includes things such at Bluetooth LE, Background Jobs, HTTP Transers, Push Notifications, NFC, and more. 
 
 ## Community Provided Open Source Plugins
 
